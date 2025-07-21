@@ -36,7 +36,7 @@
 ### 4. Javaアプリ
 - **タイトル**：楽曲製作用メモ帳アプリ 
 - **概要**：Javaの授業で作成した楽曲メモ帳アプリです。  
-- **ソース**：[GitHubリポジトリ](https://github.com/nezumimaru/RPG_JavaVersion)
+- **ソース**：[GitHubリポジトリ](https://github.com/nezumimaru/musicMemo)
 
 ---
 
