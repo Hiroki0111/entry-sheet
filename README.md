@@ -29,7 +29,7 @@
 ### 2. Javaアプリ
 - **タイトル**：RPG風バトルゲーム（JavaVersion）  
 - **概要**：Javaの授業で作成したカードゲーム。シンプルなルールとスコア管理が特徴です。  
-- **ソース**：[GitHubリポジトリ](https://github.com/nezumimaru/java-blackjack) ※リンクを差し替え
+- **ソース**：[GitHubリポジトリ](https://github.com/nezumimaru/RPG_JavaVersion)
 
 ---
 
