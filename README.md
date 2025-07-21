@@ -43,7 +43,7 @@
 ### 5. Pythonアプリ
 - **タイトル**：RPG風バトルゲーム（PythonVersion）
 - **概要**：Pythonの授業で作成したRPG風ゲーム。エンカウントや戦闘システムを実装しています。  
-- **ソース**：[GitHubリポジトリ](https://github.com/nezumimaru/python-rpg) ※リンクを差し替え
+- **ソース**：[GitHubリポジトリ](https://github.com/nezumimaru/RPG_PythonVersion)
 
 ---
 
