@@ -26,8 +26,15 @@
 
 ---
 
+### 2. Javaアプリ
+- **タイトル**：RPG風バトルゲーム（JavaVersion）  
+- **概要**：Javaの授業で作成したカードゲーム。シンプルなルールとスコア管理が特徴です。  
+- **ソース**：[GitHubリポジトリ](https://github.com/nezumimaru/java-blackjack) ※リンクを差し替え
+
+---
+
 ### 3. Pythonアプリ
-- **タイトル**：RPG風バトルゲーム  
+- **タイトル**：RPG風バトルゲーム（PythonVersion）
 - **概要**：Pythonの授業で作成したテキストベースのRPG風ゲーム。エンカウントや戦闘システムを実装しています。  
 - **ソース**：[GitHubリポジトリ](https://github.com/nezumimaru/python-rpg) ※リンクを差し替え
 
