@@ -22,20 +22,27 @@
 ### 2. Javaアプリ
 - **タイトル**：ブラックジャックアプリ  
 - **概要**：Javaの授業で作成したカードゲーム。シンプルなルールとスコア管理が特徴です。  
-- **ソース**：[GitHubリポジトリ](https://github.com/nezumimaru/java-blackjack) ※リンクを差し替え
+- **ソース**：[GitHubリポジトリ](https://github.com/nezumimaru/java-blackjack)
 
 ---
 
-### 2. Javaアプリ
+### 3. Javaアプリ
 - **タイトル**：RPG風バトルゲーム（JavaVersion）  
-- **概要**：Javaの授業で作成したカードゲーム。シンプルなルールとスコア管理が特徴です。  
+- **概要**：Javaの授業で作成したコンソール上でキャラが動くアプリゲーム。エンカウントや戦闘システムを実装しています。  
 - **ソース**：[GitHubリポジトリ](https://github.com/nezumimaru/RPG_JavaVersion)
 
 ---
 
-### 3. Pythonアプリ
+### 4. Javaアプリ
+- **タイトル**：楽曲製作用メモ帳アプリ 
+- **概要**：Javaの授業で作成した楽曲メモ帳アプリです。  
+- **ソース**：[GitHubリポジトリ](https://github.com/nezumimaru/RPG_JavaVersion)
+
+---
+
+### 5. Pythonアプリ
 - **タイトル**：RPG風バトルゲーム（PythonVersion）
-- **概要**：Pythonの授業で作成したテキストベースのRPG風ゲーム。エンカウントや戦闘システムを実装しています。  
+- **概要**：Pythonの授業で作成したRPG風ゲーム。エンカウントや戦闘システムを実装しています。  
 - **ソース**：[GitHubリポジトリ](https://github.com/nezumimaru/python-rpg) ※リンクを差し替え
 
 ---
