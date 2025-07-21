@@ -15,7 +15,7 @@
 - **タイトル**：Garu子  
 - **URL**：[https://garuko-website.com/](https://garuko-website.com/)
 - **概要**：生成AIで作成した画像や楽曲を用い、架空のアーティストを表現したWebサイトです。  
-- **ソース**：[GitHubリポジトリ](https://github.com/nezumimaru/garuko-website) ※実際のリンクに差し替え
+- **ソース**：[GitHubリポジトリ](https://github.com/nezumimaru/garuko-website)
 
 ---
 
