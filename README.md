@@ -53,5 +53,12 @@
 - **ソース**：[GitHubリポジトリ](https://github.com/Hiroki0111/MyUnityGame01)
 
 ---
+
+### 5. Unityアプリ
+- **タイトル**：アイス取りゲーム
+- **概要**：Unityの授業で作成したゲームをかいりょうしました。お化けを避けながらアイスを取ってTimeを競うゲームです。  
+- **ソース**：[GitHubリポジトリ](https://github.com/Hiroki0111/MyUnityGame01)
+
+---
 ## 🎥 過去制作紹介動画
 [YouTube動画リンク（限定公開）](https://youtu.be/I4i62yGIrOE)
